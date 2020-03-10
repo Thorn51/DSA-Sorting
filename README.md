@@ -13,3 +13,11 @@ Introduction module on data structures and algorithms including:
 - **Sorting Algorithms** (current)
 
 ## Sorting Algorithms
+
+### Bubble Sort
+
+### Merge Sort
+
+### Quick Sort
+
+### Exercises
