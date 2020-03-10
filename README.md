@@ -126,10 +126,10 @@ function partition(array, start, end) {
 
 Given the following list of numbers `21, 1, 26, 45, 29, 28, 2, 9, 16, 49, 39, 27, 43, 34, 46, 40`
 
-- What is the resulting list that will be sorted after 3 recursive calls to mergesort?
-- What is the resulting list that will be sorted after 16 recursive calls to mergesort?
-- What are the first 2 lists to be merged?
-- Which two lists would be merged on the 7th merge?
+    - What is the resulting list that will be sorted after 3 recursive calls to mergesort?
+    - What is the resulting list that will be sorted after 16 recursive calls to mergesort?
+    - What are the first 2 lists to be merged?
+    - Which two lists would be merged on the 7th merge?
 
 #### 2. Understanding quicksort
 
@@ -165,5 +165,6 @@ Write an O(n) algorithm to sort an array of integers, where you know in advance 
 
 Write an algorithm to shuffle an array into a random order in place (i.e., without creating a new array).
 
-8. Sorting books
-   Imagine that I gave you 20 books to sort in alphabetical order. Express this as an algorithm and then implement your algorithm.
+#### 8. Sorting books
+
+Imagine that I gave you 20 books to sort in alphabetical order. Express this as an algorithm and then implement your algorithm.
